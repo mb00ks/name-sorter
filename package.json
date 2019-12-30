@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "build": "node name-sorter.js .\\unsorted-names-list.txt",
     "test": "node .\\node_modules\\mocha\\bin\\mocha"
   },
   "author": "",
